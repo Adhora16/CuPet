@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "browserify-zlib": "^0.2.0",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.1",
+    "path-browserify": "^1.0.1",
+    "querystring-es3": "^0.2.1",
+    "react-calendar": "^5.1.0",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^6.0.1"
+  }
+}
